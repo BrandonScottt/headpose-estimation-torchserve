@@ -10,4 +10,4 @@ torch-model-archiver \
   --serialized-file 6DRepNet_300W_LP_BIWI.pth \
   --model-file model.py \
   --handler sixdrepnet_handler.py \
-  --extra-files repvgg.py, se_block.py, utils.py
+  --extra-files repvgg.py, se_block.py, utils.py, requirements.txt
