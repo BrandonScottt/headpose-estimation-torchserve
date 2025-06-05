@@ -1,0 +1,6 @@
+# These must be installed before building mmdetection
+
+torch
+torchvision
+pillow
+torchserve
